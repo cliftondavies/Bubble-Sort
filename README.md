@@ -13,7 +13,7 @@
 
 ### Prerequisites
 
-([Install](https://www.ruby-lang.org/en/documentation/installation/) Ruby
+[Install](https://www.ruby-lang.org/en/documentation/installation/) Ruby
 
 ### Usage (local environment)
 
