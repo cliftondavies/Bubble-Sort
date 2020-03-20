@@ -18,3 +18,5 @@ def bubble_sort(array)
   end
   array
 end
+
+bubble_sort(%w[hi hello hey]) { |left, right| left.length - right.length }
