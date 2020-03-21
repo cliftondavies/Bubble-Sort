@@ -1,4 +1,4 @@
-def bubble_sort(array)
+def bubble_sort_by(array)
   sort_length = array.length
 
   loop do
@@ -19,4 +19,4 @@ def bubble_sort(array)
   array
 end
 
-bubble_sort(%w[hi hello hey]) { |left, right| left.length - right.length }
+bubble_sort_by(%w[hi hello hey]) { |left, right| left.length - right.length }
