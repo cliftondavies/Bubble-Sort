@@ -1,12 +1,12 @@
 # Bubble-Sort
 
-## Project Aim
+## Aim
 
 > To build two Bubble Sort algorithms. The first takes an array and returns a sorted array. The second sorts an array by accepting a block.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
-## Project Implementation
+## Implementation
 
 The algorithm considers all elements that are in their final, sorted position after one completed iteration. On the next iteration it sorts up to, but not including, elements already in their final position. This leads to about a 50% improvement in comparison count for worst-case efficiency of O(n^2).
 
